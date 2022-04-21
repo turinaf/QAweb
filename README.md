@@ -1,2 +1,2 @@
 # QAweb
- Simple Q/A web with raw php
+ Question and answer website using HTML, Javascript, CSS and PHP.
