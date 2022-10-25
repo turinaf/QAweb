@@ -6,5 +6,5 @@
 * Login
 * Edit profile including adding profile picture.
 * Ask question
-* Give answer to a question. 
+* Give answer to questions. 
 * Like answers.
